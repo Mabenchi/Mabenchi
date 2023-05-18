@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My Current Score in TryHackMe
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mabenchi.png" alt="TryHackMe">
