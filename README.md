@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Current Score in TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mabenchi.png" alt="TryHackMe">
