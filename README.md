@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Alt Text](https://i.ibb.co/hWzZtjV/giphy.gif)
+![Alt Text](https://github.com/MarouaneBenchiekh/MarouaneBenchiekh/blob/main/giphy.gif)
 
 My name is Marouane Benchiekh or Mabenchi a fellow learner interested in Cyber Security realm. Currently studying at [1337](https://1337.ma).
 
