@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Alt Text](https://i.ibb.co/hWzZtjV/giphy.gif)
+
 My name is Marouane Benchiekh or Mabenchi a fellow learner interested in Cyber Security realm. Currently studying at [1337](https://1337.ma).
 
 You can contact me on My [Linkedin](https://www.linkedin.com/in/marouane-benchiekh/).
