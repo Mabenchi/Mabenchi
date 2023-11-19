@@ -27,4 +27,4 @@ Check my Blog [Mabenchi.me](https://mabenchi.me/)
 
 # To-Do List
 
-- [ ] Create my first pentesting script tool.
+- [ ] Build pentesting script tool.
