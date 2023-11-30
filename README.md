@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center" >
+  <img src="https://github.com/MarouaneBenchiekh/MarouaneBenchiekh/blob/main/retrowawe.gif" width="100%"/>
+</p>
 
-![Alt Text](https://github.com/MarouaneBenchiekh/MarouaneBenchiekh/blob/main/giphy.gif)
 
 My name is Marouane Benchiekh or Mabenchi a fellow learner interested in Cyber Security realm. Currently studying at [1337](https://1337.ma).
 
@@ -27,4 +29,5 @@ Check my Blog [Mabenchi.me](https://mabenchi.me/)
 
 # To-Do List
 
-- [ ] Build pentesting script tool.
+- [x] Develope Smb Spider script.
+- [ ] Reach Pro Hacker in Hack The Box Platform.
