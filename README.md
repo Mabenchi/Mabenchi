@@ -29,5 +29,5 @@ Check my Blog [Mabenchi.me](https://mabenchi.me/)
 
 # To-Do List
 
-- [x] Develope Smb Spider script.
+- [x] Develop Smb Spider script.
 - [ ] Reach Pro Hacker in Hack The Box Platform.
