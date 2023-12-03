@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center" >  <img src="https://github.com/MarouaneBenchiekh/MarouaneBenchiekh/blob/main/retrowawe.gif" width="100%"/>
-</p>
 
-
-💬 **Me**: an offensive security enthusiast focusing on offensive development operating system internals and Red Teaming, now involved in learning Active Directory. Currently studying at [1337](https://1337.ma).
+💬 **Me**: an offensive security enthusiast focusing on offensive development, operating system internals and Red Teaming, now involved in learning Active Directory. Currently studying at [1337](https://1337.ma).
 
 ## Projects
 
@@ -30,8 +27,15 @@ Here are some ideas to get you started:
 \\___[ A lightweight script tool to help you enumerate smb shares.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Smb`,`python` ]
 
+- `🕷` **`Webserv`**<br>
+\\___[ Building a HTTP 1.1 web server using C++. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `HTTP`,`c++` ]
+
 📝 **Blog**: I'am currently documeting my learnings about pentesting some protocols, understanding different asspects of Active Directory and soon binary exploitation. You can check it out here [Mabenchi.me](https://mabenchi.me/)
 
 ## Developement
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,php,bash,js,html)](https://skillicons.dev)
+
+<p align="center" >  <img src="https://github.com/MarouaneBenchiekh/MarouaneBenchiekh/blob/main/retrowawe.gif" width="100%"/>
+</p>
