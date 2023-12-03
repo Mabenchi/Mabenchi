@@ -14,20 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center" >
-  <img src="https://github.com/MarouaneBenchiekh/MarouaneBenchiekh/blob/main/retrowawe.gif" width="100%"/>
+<p align="center" >  <img src="https://github.com/MarouaneBenchiekh/MarouaneBenchiekh/blob/main/retrowawe.gif" width="100%"/>
 </p>
 
 
-My name is Marouane Benchiekh or Mabenchi a fellow learner interested in Cyber Security realm. Currently studying at [1337](https://1337.ma).
+💬 **Me**: an offensive security enthusiast focusing on offensive development operating system internals and Red Teaming, now involved in learning Active Directory. Currently studying at [1337](https://1337.ma).
 
-You can contact me on My [Linkedin](https://www.linkedin.com/in/marouane-benchiekh/).
+## Projects
 
-Check my Blog [Mabenchi.me](https://mabenchi.me/)
+- `🐧` **`minishell`**<br>
+\\___[ Bash shell executable on Unix-like systems using C.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Unix`,`c` ]
 
+- `🕷` **`Smb Spider`**<br>
+\\___[ A lightweight script tool to help you enumerate smb shares.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Smb`,`python` ]
 
-# To-Do List
+📝 **Blog**: I'am currently documeting my learnings about pentesting some protocols, understanding different asspects of Active Directory and soon binary exploitation. You can check it out here [Mabenchi.me](https://mabenchi.me/)
 
-- [x] Develop Smb Spider script.
-- [ ] Reach Pro Hacker in Hack The Box Platform.
+## Developement
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,php,bash,js,html)](https://skillicons.dev)
