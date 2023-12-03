@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 \\___[ A lightweight script tool to help you enumerate smb shares.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Smb`,`python` ]
 
-- `🕷` **`Webserv`**<br>
+- `🕸` **`Webserv`**<br>
 \\___[ Building a HTTP 1.1 web server using C++. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `HTTP`,`c++` ]
 
