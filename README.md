@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 **Me**: an offensive security enthusiast focusing on offensive development, operating system internals and Red Teaming, now involved in learning Active Directory. Currently studying at [1337](https://1337.ma).
+💬 **Me**: an offensive security enthusiast focusing on development, operating system internals and Red Teaming, now involved in learning windows/Active Directory security. Currently studying at [1337](https://1337.ma).
 
 ## Projects
 
