@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 \\___[ Building a HTTP 1.1 web server using C++. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `HTTP`,`c++` ]
 
-📝 **Blog**: I'am currently documeting my learnings about pentesting different protocols, understanding different aspects of Active Directory and soon binary exploitation. You can check it out here [Mabenchi.me](https://mabenchi.gitbook.io)
+📝 **Blog**: I'am currently documeting my learnings about pentesting different protocols, understanding different aspects of Active Directory and soon Malware Development. You can check it out here [Mabenchi.me](https://mabenchi.gitbook.io)
 
 ## Developement
 
