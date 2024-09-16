@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- `🐧` **`minishell`**<br>
-\\___[ Bash shell executable on Unix-like systems using C.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Unix`,`c` ]
+- `☣` **`Maldev Newbie Project`**<br>
+\\___[ My journey of projects towards the perfect Malware to use ethically.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,`c++` ]
 
 - `🕷` **`Smb Spider`**<br>
 \\___[ A lightweight script tool to help you enumerate smb shares.<br>
