@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - `☣` **`Maldev Newbie Project`**<br>
 \\___[ My journey of projects towards the perfect Malware to use ethically.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `windows`,`c` ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Windows`,`c` ]
 
 - `🕷` **`Smb Spider`**<br>
 \\___[ A lightweight script tool to help you enumerate smb shares.<br>
